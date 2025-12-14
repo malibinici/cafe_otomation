@@ -1,0 +1,12 @@
+# STM32CubeIDE
+.build/
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# KiCad
+*-cache.lib
+*.bak
+*.kicad_prl
